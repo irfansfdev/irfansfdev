@@ -1,254 +1,227 @@
-# 👋 Hi, I'm Muhammad Irfan
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-### Full-Stack Developer | React.js • Next.js • Supabase • Django
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22B8A0,50:127a6b,100:0d1117&height=230&section=header&text=Muhammad%20Irfan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=22" width="100%" alt="header" />
 
-<p align="center">
-  <b>Building modern web applications with clean code, practical solutions, and real-world functionality.</b>
-</p>
+<a href="https://my-portfolio-blush-beta-77.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8A0&center=true&vCenter=true&width=700&height=50&lines=Building+modern+web+applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+Django;Clean+code.+Real-world+functionality.;Build.+Learn.+Improve." alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://my-portfolio-blush-beta-77.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/irfansfdev">
-    <img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
+
+<a href="https://my-portfolio-blush-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-22B8A0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/irfansfdev"><img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-irfan99"><img src="https://img.shields.io/badge/LinkedIn-muhammad--irfan99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:irfan.sfdev@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 WHO I AM
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I enjoy building **complete, functional web applications** rather than just UI screens: from database design and authentication to polished, responsive interfaces.
+
+- 🎓 **BS Computer Science**, Iqra University
+- 💼 **Full-Stack Developer** (React, Next.js, Django, Supabase)
+- 🌱 Currently learning **Advanced Next.js**, **Supabase**, **Real-Time Apps** & **Salesforce Development**
+- 🎯 Mindset: **Build. Learn. Improve.**
+
+</td>
+<td width="45%" valign="top">
 
 ```js
-const developer = {
-  name: "Muhammad Irfan",
+const irfan = {
   role: "Full-Stack Developer",
-  education: "BS Computer Science",
-
-  frontend: [
-    "React.js",
-    "Next.js",
-    "JavaScript",
-    "Tailwind CSS",
-    "HTML",
-    "CSS"
+  focus: [
+    "Full-stack architecture",
+    "Auth & role-based access",
+    "E-commerce & marketplaces",
+    "Dashboards & workflows",
   ],
-
-  backend: [
-    "Django",
-    "PHP",
-    "Node.js"
-  ],
-
-  database: [
-    "Supabase",
-    "PostgreSQL",
-    "SQL"
-  ],
-
-  currentlyLearning: [
-    "Advanced Next.js",
-    "Supabase",
-    "Salesforce Development"
-  ],
-
-  mindset: "Build. Learn. Improve."
+  stack: ["React", "Next.js", "Django", "Supabase"],
+  mindset: "Build. Learn. Improve.",
 };
 ```
 
----
-
-## 🚀 WHAT I BUILD
-
-I enjoy building **complete, functional web applications** rather than just UI screens.
-
-My projects focus on:
-
-* 🧩 Full-stack application architecture
-* 🔐 Authentication & role-based access
-* 🗄️ Database design & CRUD operations
-* 🛒 E-commerce & marketplace systems
-* 🏥 Management & dashboard systems
-* ⚡ Responsive and interactive interfaces
-* 🔄 API integration & backend development
-* 📊 Admin dashboards and business workflows
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
+**Frontend**
 
-### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&perline=6" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,php,supabase,postgres,mysql" />
-</p>
+**Backend & Database**
 
-### 🔧 Tools & Development
+<img src="https://skillicons.dev/icons?i=django,nodejs,php,supabase,postgres,mysql&perline=6" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</p>
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=6" />
+
+</div>
 
 ---
 
-## 💎 FEATURED PROJECTS
+## 💎 Featured Projects
 
-### 🍔 FoodWeb — Food Ordering Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**React.js + Vite + Tailwind CSS + Django + PostgreSQL**
+### 🛍️ Multi-Vendor Marketplace
+`Next.js` · `Supabase`
 
-A full-stack food platform with a modern responsive frontend and Django backend.
+Multiple shops selling inside one platform, with separate customer, shop admin, super admin and rider workflows.
 
-* 🔐 User authentication
-* 🍽️ Restaurant & menu functionality
-* 🛒 Food ordering workflow
-* 🔌 REST API integration
-* 📱 Fully responsive interface
-* 🚀 Frontend & backend deployment
+**Highlights**
+- 🏪 Multi-shop / vendor system
+- 📦 Order & payment workflow
+- ⭐ Reviews & 🔔 notifications
+- 📊 Admin analytics
+- 🎯 Featured / approval system
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 Hospital Management System
+`Next.js` · `Supabase`
 
-**Next.js + Supabase**
+Role-based system built around different user workflows.
 
-A role-based hospital management system designed around different user workflows.
+**Highlights**
+- 👨‍⚕️ Doctor · 👤 Patient · 🛡️ Admin views
+- 📅 Appointment management
+- 📊 Dashboards
+- 🔐 Authentication & role-based access
 
-**Views:**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-* 👨‍⚕️ Doctor
-* 👤 Patient
-* 🛡️ Admin
+### 🍔 FoodWeb: Food Ordering Platform
+`React` · `Vite` · `Tailwind CSS` · `Django` · `PostgreSQL`
 
-Includes appointment management, dashboards, authentication, database operations and role-based functionality.
+Full-stack food platform with a responsive frontend and a Django backend.
 
----
+**Highlights**
+- 🔐 User authentication
+- 🍽️ Restaurant & menu functionality
+- 🛒 Food ordering workflow
+- 🔌 REST API integration
+- 🚀 Frontend & backend deployment
 
-### 🛍️ Multi-Vendor E-Commerce Marketplace
-
-**Next.js + Supabase**
-
-A multi-shop marketplace where different shops can operate inside one platform.
-
-**Core workflow includes:**
-
-* 🏪 Multiple shops/vendors
-* 👤 Customer accounts
-* 🛡️ Super Admin
-* 🏬 Shop Admin
-* 🛵 Rider workflow
-* 📦 Order management
-* 💳 Payment workflow
-* ⭐ Product reviews
-* 🔔 Notifications
-* 📊 Admin analytics
-* 🎯 Product featured/approval system
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 Multiplayer Drawing & Guessing Game
+`Next.js` · `React` · `Supabase Realtime`
 
-**Next.js + React + Supabase Realtime**
+Real-time multiplayer game concept inspired by online drawing and guessing games.
 
-A real-time multiplayer game concept inspired by online drawing and guessing games.
+**Highlights**
+- 🎨 Real-time drawing
+- 👥 Multiplayer rooms
+- 💬 Live guessing & ⏱️ round timers
+- 🏆 Scoring & 🔄 live player sync
 
-* 🎨 Real-time drawing
-* 👥 Multiplayer rooms
-* 💬 Live guessing
-* ⏱️ Round timers
-* 🏆 Scoring system
-* 🔄 Real-time player synchronization
+</td>
+</tr>
+</table>
 
----
+### 🧭 Marketplace Architecture at a Glance
 
-## 🧠 CORE SKILLS
+```mermaid
+flowchart LR
+    C([👤 Customer]) --> APP
+    S([🏬 Shop Admin]) --> APP
+    A([🛡️ Super Admin]) --> APP
+    R([🛵 Rider]) --> APP
 
-```text
-Frontend
-├── React.js
-├── Next.js
-├── JavaScript
-├── Tailwind CSS
-└── Responsive UI
+    APP[⚡ Next.js App] --> DB[(🗄️ Supabase<br/>Auth · Database · RLS)]
 
-Backend
-├── Django
-├── PHP
-├── REST APIs
-└── Server-side Logic
+    DB --> O[📦 Orders]
+    DB --> P[💳 Payments]
+    DB --> N[🔔 Notifications]
+    DB --> V[⭐ Reviews]
 
-Database
-├── Supabase
-├── PostgreSQL
-├── SQL
-└── Database Design
-
-Development
-├── Git & GitHub
-├── API Integration
-├── Authentication
-├── CRUD Operations
-└── Role-Based Systems
+    style APP fill:#22B8A0,stroke:#127a6b,color:#fff
+    style DB fill:#0d1117,stroke:#22B8A0,color:#fff
 ```
 
 ---
 
-## 📚 CURRENTLY LEARNING
+## 🚀 What I Build
 
-```text
-→ Advanced Next.js
-→ Supabase & PostgreSQL
-→ Scalable Full-Stack Architecture
-→ Real-Time Applications
-→ Salesforce Development
-```
+| | | |
+|:--|:--|:--|
+| 🧩 **Full-stack architecture** | 🔐 **Auth & role-based access** | 🗄️ **Database design & CRUD** |
+| 🛒 **E-commerce & marketplaces** | 🏥 **Management systems** | ⚡ **Responsive, interactive UIs** |
+| 🔄 **API integration** | 📊 **Admin dashboards** | 💼 **Business workflows** |
 
 ---
 
-## 🎓 EDUCATION
+## 📊 GitHub Stats
 
-### 🎓 Bachelor of Science in Computer Science
+<div align="center">
 
-**Iqra University**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=irfansfdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansfdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-Computer Science graduate with hands-on experience building full-stack applications and practical software projects.
+<img src="https://streak-stats.demolab.com?user=irfansfdev&theme=tokyonight&hide_border=true&background=0d1117" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfansfdev&theme=tokyo-night&hide_border=true&area=true&color=22B8A0&line=22B8A0&point=ffffff" width="100%" />
 
-## 🌱 DEVELOPMENT PHILOSOPHY
-
-> **Don't just write code. Build something useful with it.**
-
-I believe the best way to improve as a developer is to keep building real projects, understand how systems work behind the UI, and continuously improve existing solutions.
+</div>
 
 ---
 
-## 🤝 LET'S CONNECT
+## 📚 Currently Learning
 
-<p align="center">
+<div align="center">
 
-<a href="https://my-portfolio-blush-beta-77.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/Advanced-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time-Applications-22B8A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable-Architecture-127a6b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Salesforce-Development-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
-<a href="https://github.com/irfansfdev">
-<img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 🌱 Philosophy
 
-### ⚡ Building. Learning. Improving.
+<div align="center">
 
-**Turning ideas into functional web applications.**
+> **"Don't just write code. Build something useful with it."**
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://my-portfolio-blush-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22B8A0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-irfan99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:irfan.sfdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:127a6b,100:22B8A0&height=140&section=footer&text=Building.%20Learning.%20Improving.&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer" />
+
+</div>
