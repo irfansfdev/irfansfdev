@@ -175,26 +175,6 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=irfansfdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/><br/>
-
-<a href="https://github.com/irfansfdev">
-  <img src="https://ghchart.rshah.org/22B8A0/irfansfdev" alt="GitHub contribution graph" width="90%" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/irfansfdev?style=for-the-badge&logo=github&color=22B8A0&labelColor=0d1117" />
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 <div align="center">
