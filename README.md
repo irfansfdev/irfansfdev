@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Muhammad Irfan 👋
 
-<!--
-**irfansfdev/irfansfdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Next.js
+- React.js
+- JavaScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+- Django
+- PHP
+- SQL
+- Git & GitHub
+
+## 🔥 Featured Projects
+
+### 🍔 FoodWeb
+Full-stack food ordering platform built with React and Django.
+
+### 🏥 Hospital Management System
+Hospital management platform built with Next.js and Supabase.
+
+### 🛒 Multi-Vendor E-commerce
+Multi-shop ecommerce platform with customer, shop admin, super admin and rider workflows.
+
+### 🎮 Multiplayer Drawing Game
+Real-time multiplayer drawing and guessing game.
+
+## 🌐 Portfolio
+
+my-portfolio-blush-beta-77.vercel.app
+
+---
+
+### 📫 Connect With Me
+
+GitHub: github.com/irfansfdev
