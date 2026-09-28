@@ -1,100 +1,171 @@
+<div align="center">
+
 # 👋 Hi, I'm Muhammad Irfan
 
-### Full Stack Developer | React • Next.js • Supabase
+### 💻 Full Stack Developer
 
-I build modern, responsive and scalable web applications with a focus on clean user experiences, real-world functionality and full-stack development.
+I build modern, responsive and real-world web applications
+using **React, Next.js, Supabase and Django.**
+
+<br />
+
+<a href="https://my-portfolio-blush-beta-77.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/irfansfdev">
+  <img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I Build
+## 🚀 About Me
 
-* 🌐 Full-Stack Web Applications
-* 🛒 E-commerce & Multi-Vendor Platforms
-* 🏥 Management Systems
-* ⚡ Modern React & Next.js Applications
-* 🔐 Authentication & Role-Based Systems
-* 🗄️ Database-Driven Applications
-* 🎮 Interactive & Real-Time Web Experiences
+* 🔭 Building full-stack web applications
+* ⚡ Working with **Next.js, React & Supabase**
+* 🗄️ Interested in databases, APIs and scalable architectures
+* 🎨 I enjoy creating interactive and responsive interfaces
+* 🌱 Continuously learning and improving my development skills
+* 💡 Interested in **AI, real-time applications and modern web technologies**
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technologies
+
+<div align="center">
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 ### Backend & Database
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,django,php,supabase,postgres,mysql" />
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+</div>
 
 ---
 
 # ⭐ Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🍔 FoodWeb
 
-A full-stack food ordering platform built with React and Django.
+Full-stack food ordering platform with a modern responsive frontend and Django backend.
 
-**React • Tailwind CSS • Django • REST API**
+**React • Tailwind • Django • REST API**
 
----
+</td>
+
+<td width="50%">
 
 ### 🏥 Hospital Management System
 
-A modern hospital management platform with role-based workflows and appointment management.
+Modern hospital management platform with role-based functionality and appointment management.
 
 **Next.js • Supabase • PostgreSQL**
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛒 Multi-Vendor E-commerce
 
-A complete marketplace architecture supporting multiple shops, customers, shop administrators, riders and super-admin management.
+Marketplace supporting multiple shops, customers, shop admins, riders and super-admin workflows.
 
 **Next.js • Supabase • PostgreSQL**
 
----
+</td>
+
+<td width="50%">
 
 ### 🎮 Multiplayer Drawing Game
 
-A real-time multiplayer drawing and guessing game where players can create rooms, invite friends and compete through multiple rounds.
+Real-time drawing and guessing game with rooms, multiple players, rounds, scoring and live synchronization.
 
 **Next.js • React • Supabase Realtime**
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfansfdev\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfansfdev\&layout=compact\&theme=tokyonight\&hide_border=true)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Portfolio
+# 📈 GitHub Stats
 
-🔗 **my-portfolio-blush-beta-77.vercel.app**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irfansfdev&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansfdev&layout=compact&hide_border=true" height="170" />
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+# 🔥 Contribution Streak
 
-💻 GitHub — [@irfansfdev](https://github.com/irfansfdev)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=irfansfdev&hide_border=true" />
+
+</div>
 
 ---
 
-### ⚡ Always learning. Always building.
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=irfansfdev&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfansfdev&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://my-portfolio-blush-beta-77.vercel.app/">
+🌐 **Portfolio**
+</a>
+
+  •  
+
+<a href="https://github.com/irfansfdev">
+💻 **GitHub**
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building. Learning. Improving.
+
+<img src="https://komarev.com/ghpvc/?username=irfansfdev&style=flat-square&label=Profile+Views" />
+
+</div>
