@@ -180,11 +180,16 @@ flowchart LR
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=irfansfdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansfdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=irfansfdev&theme=tokyonight&hide_border=true&background=0d1117" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfansfdev&theme=tokyo-night&hide_border=true&area=true&color=22B8A0&line=22B8A0&point=ffffff" width="100%" />
+<a href="https://github.com/irfansfdev">
+  <img src="https://ghchart.rshah.org/22B8A0/irfansfdev" alt="GitHub contribution graph" width="90%" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/irfansfdev?style=for-the-badge&logo=github&color=22B8A0&labelColor=0d1117" />
 
 </div>
 
