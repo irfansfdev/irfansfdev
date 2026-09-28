@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Irfan
 
-### Full Stack Developer | React • Next.js • Supabase • Django
+### Full Stack Developer | React • Next.js • Supabase
 
 I build modern, responsive and scalable web applications with a focus on clean user experiences, real-world functionality and full-stack development.
 
