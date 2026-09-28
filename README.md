@@ -1,137 +1,254 @@
-<div align="center">
-
 # 👋 Hi, I'm Muhammad Irfan
 
-### 💻 Full Stack Developer
+### Full-Stack Developer | React.js • Next.js • Supabase • Django
 
-I build modern, responsive and real-world web applications
-using **React, Next.js, Supabase and Django.**
+<p align="center">
+  <b>Building modern web applications with clean code, practical solutions, and real-world functionality.</b>
+</p>
 
-<br />
-
-<a href="https://my-portfolio-blush-beta-77.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/irfansfdev">
-  <img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://my-portfolio-blush-beta-77.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/irfansfdev">
+    <img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 WHO I AM
 
-* 🔭 Building full-stack web applications
-* ⚡ Working with **Next.js, React & Supabase**
-* 🗄️ Interested in databases, APIs and scalable architectures
-* 🎨 I enjoy creating interactive and responsive interfaces
-* 🌱 Continuously learning and improving my development skills
-* 💡 Interested in **AI, real-time applications and modern web technologies**
+```js
+const developer = {
+  name: "Muhammad Irfan",
+  role: "Full-Stack Developer",
+  education: "BS Computer Science",
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "JavaScript",
+    "Tailwind CSS",
+    "HTML",
+    "CSS"
+  ],
+
+  backend: [
+    "Django",
+    "PHP",
+    "Node.js"
+  ],
+
+  database: [
+    "Supabase",
+    "PostgreSQL",
+    "SQL"
+  ],
+
+  currentlyLearning: [
+    "Advanced Next.js",
+    "Supabase",
+    "Salesforce Development"
+  ],
+
+  mindset: "Build. Learn. Improve."
+};
+```
 
 ---
 
-## 🛠️ Technologies
+## 🚀 WHAT I BUILD
 
-<div align="center">
+I enjoy building **complete, functional web applications** rather than just UI screens.
 
-### Frontend
+My projects focus on:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,php,supabase,postgres,mysql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-</div>
+* 🧩 Full-stack application architecture
+* 🔐 Authentication & role-based access
+* 🗄️ Database design & CRUD operations
+* 🛒 E-commerce & marketplace systems
+* 🏥 Management & dashboard systems
+* ⚡ Responsive and interactive interfaces
+* 🔄 API integration & backend development
+* 📊 Admin dashboards and business workflows
 
 ---
 
-# ⭐ Featured Projects
+## 🛠️ TECHNOLOGY STACK
 
-<table>
-<tr>
-<td width="50%">
+### 🎨 Frontend
 
-### 🍔 FoodWeb
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
-Full-stack food ordering platform with a modern responsive frontend and Django backend.
+### ⚙️ Backend & Database
 
-**React • Tailwind • Django • REST API**
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,php,supabase,postgres,mysql" />
+</p>
 
-</td>
+### 🔧 Tools & Development
 
-<td width="50%">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
+
+---
+
+## 💎 FEATURED PROJECTS
+
+### 🍔 FoodWeb — Food Ordering Platform
+
+**React.js + Vite + Tailwind CSS + Django + PostgreSQL**
+
+A full-stack food platform with a modern responsive frontend and Django backend.
+
+* 🔐 User authentication
+* 🍽️ Restaurant & menu functionality
+* 🛒 Food ordering workflow
+* 🔌 REST API integration
+* 📱 Fully responsive interface
+* 🚀 Frontend & backend deployment
+
+---
 
 ### 🏥 Hospital Management System
 
-Modern hospital management platform with role-based functionality and appointment management.
+**Next.js + Supabase**
 
-**Next.js • Supabase • PostgreSQL**
+A role-based hospital management system designed around different user workflows.
 
-</td>
-</tr>
+**Views:**
 
-<tr>
-<td width="50%">
+* 👨‍⚕️ Doctor
+* 👤 Patient
+* 🛡️ Admin
 
-### 🛒 Multi-Vendor E-commerce
-
-Marketplace supporting multiple shops, customers, shop admins, riders and super-admin workflows.
-
-**Next.js • Supabase • PostgreSQL**
-
-</td>
-
-<td width="50%">
-
-### 🎮 Multiplayer Drawing Game
-
-Real-time drawing and guessing game with rooms, multiple players, rounds, scoring and live synchronization.
-
-**Next.js • React • Supabase Realtime**
-
-</td>
-</tr>
-</table>
+Includes appointment management, dashboards, authentication, database operations and role-based functionality.
 
 ---
 
-# 🔥 Contribution Streak
+### 🛍️ Multi-Vendor E-Commerce Marketplace
 
-<div align="center">
+**Next.js + Supabase**
 
-<img src="https://streak-stats.demolab.com?user=irfansfdev&hide_border=true" />
+A multi-shop marketplace where different shops can operate inside one platform.
 
-</div>
+**Core workflow includes:**
+
+* 🏪 Multiple shops/vendors
+* 👤 Customer accounts
+* 🛡️ Super Admin
+* 🏬 Shop Admin
+* 🛵 Rider workflow
+* 📦 Order management
+* 💳 Payment workflow
+* ⭐ Product reviews
+* 🔔 Notifications
+* 📊 Admin analytics
+* 🎯 Product featured/approval system
 
 ---
 
-## 🌐 Find Me Online
+### 🎮 Multiplayer Drawing & Guessing Game
 
-<div align="center">
+**Next.js + React + Supabase Realtime**
+
+A real-time multiplayer game concept inspired by online drawing and guessing games.
+
+* 🎨 Real-time drawing
+* 👥 Multiplayer rooms
+* 💬 Live guessing
+* ⏱️ Round timers
+* 🏆 Scoring system
+* 🔄 Real-time player synchronization
+
+---
+
+## 🧠 CORE SKILLS
+
+```text
+Frontend
+├── React.js
+├── Next.js
+├── JavaScript
+├── Tailwind CSS
+└── Responsive UI
+
+Backend
+├── Django
+├── PHP
+├── REST APIs
+└── Server-side Logic
+
+Database
+├── Supabase
+├── PostgreSQL
+├── SQL
+└── Database Design
+
+Development
+├── Git & GitHub
+├── API Integration
+├── Authentication
+├── CRUD Operations
+└── Role-Based Systems
+```
+
+---
+
+## 📚 CURRENTLY LEARNING
+
+```text
+→ Advanced Next.js
+→ Supabase & PostgreSQL
+→ Scalable Full-Stack Architecture
+→ Real-Time Applications
+→ Salesforce Development
+```
+
+---
+
+## 🎓 EDUCATION
+
+### 🎓 Bachelor of Science in Computer Science
+
+**Iqra University**
+
+Computer Science graduate with hands-on experience building full-stack applications and practical software projects.
+
+---
+
+## 🌱 DEVELOPMENT PHILOSOPHY
+
+> **Don't just write code. Build something useful with it.**
+
+I believe the best way to improve as a developer is to keep building real projects, understand how systems work behind the UI, and continuously improve existing solutions.
+
+---
+
+## 🤝 LET'S CONNECT
+
+<p align="center">
 
 <a href="https://my-portfolio-blush-beta-77.vercel.app/">
-🌐 **Portfolio**
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" />
 </a>
-
-  •  
 
 <a href="https://github.com/irfansfdev">
-💻 **GitHub**
+<img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github" />
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### ⚡ Building. Learning. Improving.
 
-</div>
+**Turning ideas into functional web applications.**
+
+</p>
