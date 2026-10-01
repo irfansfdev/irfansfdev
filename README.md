@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22B8A0,50:127a6b,100:0d1117&height=230&section=header&text=Muhammad%20Irfan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=22" width="100%" alt="header" />
 
 <a href="https://my-portfolio-blush-beta-77.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8A0&center=true&vCenter=true&width=700&height=50&lines=Building+modern+web+applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+SQL;Clean+code.+Real-world+functionality.;Build.+Learn.+Improve." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8A0&center=true&vCenter=true&width=700&height=50&lines=Building+modern+web+applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+Django;Clean+code.+Real-world+functionality.;Build.+Learn.+Improve." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 I enjoy building **complete, functional web applications** rather than just UI screens: from database design and authentication to polished, responsive interfaces.
 
 - 🎓 **BS Computer Science**, Iqra University
-- 💼 **Full-Stack Developer** (React, Next.js, SQL, Supabase)
+- 💼 **Full-Stack Developer** (React, Next.js, Django, Supabase)
 - 🌱 Currently learning **Advanced Next.js**, **Supabase**, **Real-Time Apps** & **Salesforce Development**
 - 🎯 Mindset: **Build. Learn. Improve.**
 
@@ -45,7 +45,7 @@ const irfan = {
     "E-commerce & marketplaces",
     "Dashboards & workflows",
   ],
-  stack: ["React", "Next.js", "SQL", "Supabase"],
+  stack: ["React", "Next.js", "Django", "Supabase"],
   mindset: "Build. Learn. Improve.",
 };
 ```
@@ -128,16 +128,17 @@ Full-stack food platform with a responsive frontend and a Django backend.
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Multiplayer Drawing & Guessing Game
-`Next.js` · `React` · `Supabase Realtime`
+### 🛒 E-Commerce Website
+`PHP` · `SQL`
 
-Real-time multiplayer game concept inspired by online drawing and guessing games.
+A complete e-commerce website with customer ordering and a full admin panel.
 
 **Highlights**
-- 🎨 Real-time drawing
-- 👥 Multiplayer rooms
-- 💬 Live guessing & ⏱️ round timers
-- 🏆 Scoring & 🔄 live player sync
+- 📧 **PHPMailer** integration — automatic emails on every order status update
+- 🛠️ Admin panel: add/edit **products** & **categories**
+- 📊 Admin **overview** dashboard
+- 🛒 Product listing & order management
+- 🗄️ SQL-driven database structure
 
 </td>
 </tr>
@@ -172,6 +173,26 @@ flowchart LR
 | 🧩 **Full-stack architecture** | 🔐 **Auth & role-based access** | 🗄️ **Database design & CRUD** |
 | 🛒 **E-commerce & marketplaces** | 🏥 **Management systems** | ⚡ **Responsive, interactive UIs** |
 | 🔄 **API integration** | 📊 **Admin dashboards** | 💼 **Business workflows** |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=irfansfdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/><br/>
+
+<a href="https://github.com/irfansfdev">
+  <img src="https://ghchart.rshah.org/22B8A0/irfansfdev" alt="GitHub contribution graph" width="90%" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/irfansfdev?style=for-the-badge&logo=github&color=22B8A0&labelColor=0d1117" />
+
+</div>
 
 ---
 
