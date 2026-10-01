@@ -29,7 +29,7 @@
 I enjoy building **complete, functional web applications** rather than just UI screens: from database design and authentication to polished, responsive interfaces.
 
 - 🎓 **BS Computer Science**, Iqra University
-- 💼 **Full-Stack Developer** (React, Next.js, Django, Supabase)
+- 💼 **Full-Stack Developer** (React, Next.js, SQL, Supabase)
 - 🌱 Currently learning **Advanced Next.js**, **Supabase**, **Real-Time Apps** & **Salesforce Development**
 - 🎯 Mindset: **Build. Learn. Improve.**
 
