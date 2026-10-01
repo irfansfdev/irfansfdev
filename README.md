@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22B8A0,50:127a6b,100:0d1117&height=230&section=header&text=Muhammad%20Irfan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=22" width="100%" alt="header" />
 
 <a href="https://my-portfolio-blush-beta-77.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8A0&center=true&vCenter=true&width=700&height=50&lines=Building+modern+web+applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+Django;Clean+code.+Real-world+functionality.;Build.+Learn.+Improve." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8A0&center=true&vCenter=true&width=700&height=50&lines=Building+modern+web+applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+SQL;Clean+code.+Real-world+functionality.;Build.+Learn.+Improve." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,7 +45,7 @@ const irfan = {
     "E-commerce & marketplaces",
     "Dashboards & workflows",
   ],
-  stack: ["React", "Next.js", "Django", "Supabase"],
+  stack: ["React", "Next.js", "SQL", "Supabase"],
   mindset: "Build. Learn. Improve.",
 };
 ```
