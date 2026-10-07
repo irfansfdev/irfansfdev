@@ -1,4 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22B8A0,50:127a6b,100:0d1117&height=230&section=header&text=Muhammad%20Irfan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=22" width="100%" alt="header" />
@@ -9,10 +10,7 @@
 
 <br/>
 
-<a href="https://my-portfolio-blush-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-22B8A0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/irfansfdev"><img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-irfan99"><img src="https://img.shields.io/badge/LinkedIn-muhammad--irfan99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:irfan.sfdev@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://my-portfolio-blush-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-22B8A0?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/irfansfdev"><img src="https://img.shields.io/badge/GitHub-irfansfdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-irfan99"><img src="https://img.shields.io/badge/LinkedIn-muhammad--irfan99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:irfan.sfdev@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -28,10 +26,10 @@
 
 I enjoy building **complete, functional web applications** rather than just UI screens: from database design and authentication to polished, responsive interfaces.
 
-- 🎓 **BS Computer Science**, Iqra University
-- 💼 **Full-Stack Developer** (React, Next.js, Django, Supabase)
-- 🌱 Currently learning **Advanced Next.js**, **Supabase**, **Real-Time Apps** & **Salesforce Development**
-- 🎯 Mindset: **Build. Learn. Improve.**
+* 🎓 **BS Computer Science**, Iqra University
+* 💼 **Full-Stack Developer** (React, Next.js, Django, Supabase)
+* 🌱 Currently learning **Advanced Next.js**, **Supabase**, **Real-Time Apps** & **Salesforce Development**
+* 🎯 Mindset: **Build. Learn. Improve.**
 
 </td>
 <td width="45%" valign="top">
@@ -83,62 +81,79 @@ const irfan = {
 <td width="50%" valign="top">
 
 ### 🛍️ Multi-Vendor Marketplace
+
 `Next.js` · `Supabase`
 
 Multiple shops selling inside one platform, with separate customer, shop admin, super admin and rider workflows.
 
 **Highlights**
-- 🏪 Multi-shop / vendor system
-- 📦 Order & payment workflow
-- ⭐ Reviews & 🔔 notifications
-- 📊 Admin analytics
-- 🎯 Featured / approval system
+
+* 🏪 Multi-shop / vendor system
+* 📦 Order & payment workflow
+* ⭐ Reviews & 🔔 notifications
+* 📊 Admin analytics
+* 🎯 Featured / approval system
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 Hospital Management System
+
 `Next.js` · `Supabase`
 
 Role-based system built around different user workflows.
 
 **Highlights**
-- 👨‍⚕️ Doctor · 👤 Patient · 🛡️ Admin views
-- 📅 Appointment management
-- 📊 Dashboards
-- 🔐 Authentication & role-based access
+
+* 👨‍⚕️ Doctor · 👤 Patient · 🛡️ Admin views
+* 📅 Appointment management
+* 📊 Dashboards
+* 🔐 Authentication & role-based access
+
+**🔗 [Live Demo](https://irfan-hospital-management-system.vercel.app/login)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 FoodWeb: Food Ordering Platform
-`React` · `Vite` · `Tailwind CSS` · `Django` · `PostgreSQL`
+### ⌨️ Typing Speed Test
 
-Full-stack food platform with a responsive frontend and a Django backend.
+`HTML` · `CSS` · `JavaScript`
+
+An interactive typing speed test designed to measure typing performance through real-time speed and accuracy tracking.
 
 **Highlights**
-- 🔐 User authentication
-- 🍽️ Restaurant & menu functionality
-- 🛒 Food ordering workflow
-- 🔌 REST API integration
-- 🚀 Frontend & backend deployment
+
+* ⚡ Real-time WPM calculation
+* 🎯 Accuracy tracking
+* ⏱️ Multiple test durations
+* 🎮 Easy · Medium · Hard modes
+* 📊 Performance statistics
+* 🔄 Practice & retry functionality
+
+**🔗 [Live Demo](https://typing-speed-test-muhammad-irfan1.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Website
+
 `PHP` · `SQL`
 
 A complete e-commerce website with customer ordering and a full admin panel.
 
 **Highlights**
-- 📧 **PHPMailer** integration — automatic emails on every order status update
-- 🛠️ Admin panel: add/edit **products** & **categories**
-- 📊 Admin **overview** dashboard
-- 🛒 Product listing & order management
-- 🗄️ SQL-driven database structure
+
+* 📧 **PHPMailer** integration — automatic emails on every order status update
+* 💳 **Stripe** online payment integration
+* 💵 **Cash on Delivery** checkout
+* 🛠️ Admin panel: add/edit **products** & **categories**
+* 📊 Admin **overview** dashboard
+* 🛒 Product listing & order management
+* 🗄️ SQL-driven database structure
+
+**🔗 [Live Demo](https://irfan-php-domain.infy.click/)**
 
 </td>
 </tr>
@@ -168,11 +183,11 @@ flowchart LR
 
 ## 🚀 What I Build
 
-| | | |
-|:--|:--|:--|
-| 🧩 **Full-stack architecture** | 🔐 **Auth & role-based access** | 🗄️ **Database design & CRUD** |
-| 🛒 **E-commerce & marketplaces** | 🏥 **Management systems** | ⚡ **Responsive, interactive UIs** |
-| 🔄 **API integration** | 📊 **Admin dashboards** | 💼 **Business workflows** |
+|                                  |                                 |                                   |
+| :------------------------------- | :------------------------------ | :-------------------------------- |
+| 🧩 **Full-stack architecture**   | 🔐 **Auth & role-based access** | 🗄️ **Database design & CRUD**    |
+| 🛒 **E-commerce & marketplaces** | 🏥 **Management systems**       | ⚡ **Responsive, interactive UIs** |
+| 🔄 **API integration**           | 📊 **Admin dashboards**         | 💼 **Business workflows**         |
 
 ---
 
@@ -224,9 +239,7 @@ flowchart LR
 
 ### 🤝 Let's Connect
 
-<a href="https://my-portfolio-blush-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22B8A0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-irfan99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:irfan.sfdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://my-portfolio-blush-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22B8A0?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-irfan99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:irfan.sfdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:127a6b,100:22B8A0&height=140&section=footer&text=Building.%20Learning.%20Improving.&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer" />
 
